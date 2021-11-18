@@ -8,9 +8,7 @@ swagger: Once run the sever open swagger-ui [http://localhost:8080/swagger-ui.ht
 
  postman: In the project "testscript" folder
 
-In Database I create four tables ACCOUNT, LIST, ITEM, ACTIVITY
-
-and the ACTIVITY is intermediary table
+In Database I create four tables ACCOUNT, LIST, ITEM, ACTIVITY and the ACTIVITY is intermediary table
 
 You can use postman script to test service:
 
